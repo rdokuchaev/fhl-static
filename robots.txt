@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /
+
+
+Sitemap: http://fhlworld.tilda.ws/sitemap.xml
+Host: fhlworld.tilda.ws
